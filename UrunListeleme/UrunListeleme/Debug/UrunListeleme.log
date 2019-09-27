@@ -1,0 +1,40 @@
+﻿  Bilgisayar.cpp
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\bilgisayar.cpp(4): error C2653: 'Bilgisayar': is not a class or namespace name
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\bilgisayar.cpp(4): error C2065: 'string': undeclared identifier
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\bilgisayar.cpp(4): error C2146: syntax error: missing ')' before identifier 'name'
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\bilgisayar.cpp(5): error C2143: syntax error: missing ';' before '{'
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\bilgisayar.cpp(5): error C2447: '{': missing function header (old-style formal list?)
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\bilgisayar.cpp(20): error C2653: 'Bilgisayar': is not a class or namespace name
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\bilgisayar.cpp(20): error C2523: '<Unknown>::~Bilgisayar': destructor tag mismatch
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\bilgisayar.cpp(21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\bilgisayar.cpp(22): warning C4508: 'Bilgisayar': function should return a value; 'void' return type assumed
+  Urun.cpp
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\urun.cpp(4): error C2653: 'Urun': is not a class or namespace name
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\urun.cpp(4): error C2065: 'string': undeclared identifier
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\urun.cpp(4): error C2146: syntax error: missing ')' before identifier 'name'
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\urun.cpp(4): error C2065: 'name': undeclared identifier
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\urun.cpp(4): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\urun.cpp(4): error C2065: 'no': undeclared identifier
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\urun.cpp(4): error C2065: 'price': undeclared identifier
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\urun.cpp(4): error C2065: 'brand': undeclared identifier
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\urun.cpp(4): error C2065: 'type': undeclared identifier
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\urun.cpp(5): error C2448: 'Type': function-style initializer appears to be a function definition
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\urun.cpp(7): error C2653: 'Urun': is not a class or namespace name
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\urun.cpp(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\urun.cpp(9): warning C4508: 'Urun': function should return a value; 'void' return type assumed
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\urun.cpp(10): error C2523: 'Urun::~Urun': destructor tag mismatch
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\urun.cpp(10): error C2510: 'Urun': left of '::' must be a class/struct/union
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\urun.cpp(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\urun.cpp(11): error C2084: function 'int Urun(void)' already has a body
+  c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\urun.cpp(7): note: see previous definition of 'Urun'
+  Yazici.cpp
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\yazici.cpp(4): error C2653: 'Yazici': is not a class or namespace name
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\yazici.cpp(4): error C2065: 'string': undeclared identifier
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\yazici.cpp(4): error C2146: syntax error: missing ')' before identifier 'name'
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\yazici.cpp(5): error C2143: syntax error: missing ';' before '{'
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\yazici.cpp(5): error C2447: '{': missing function header (old-style formal list?)
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\yazici.cpp(17): error C2653: 'Yazici': is not a class or namespace name
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\yazici.cpp(17): error C2523: '<Unknown>::~Yazici': destructor tag mismatch
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\yazici.cpp(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\mhkarazeybek\documents\github\cpp\urunlisteleme\urunlisteleme\yazici.cpp(19): warning C4508: 'Yazici': function should return a value; 'void' return type assumed
+  Generating Code...
