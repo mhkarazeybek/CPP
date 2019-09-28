@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\mhkarazeybek\documents\github\cpp\openglprojects\windowslogo\windowslogo\main.cpp(47): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\mhkarazeybek\documents\github\cpp\openglprojects\windowslogo\windowslogo\main.cpp(51): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\mhkarazeybek\documents\github\cpp\openglprojects\windowslogo\windowslogo\main.cpp(55): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\mhkarazeybek\documents\github\cpp\openglprojects\windowslogo\windowslogo\main.cpp(59): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  WindowsLogo.vcxproj -> C:\Users\MHKARAZEYBEK\Documents\Github\CPP\OpenGLProjects\WindowsLogo\Debug\WindowsLogo.exe
