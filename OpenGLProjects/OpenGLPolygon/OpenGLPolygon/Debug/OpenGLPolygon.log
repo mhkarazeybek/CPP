@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\mhkarazeybek\documents\github\cpp\openglprojects\openglpolygon\openglpolygon\main.cpp(18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\mhkarazeybek\documents\github\cpp\openglprojects\openglpolygon\openglpolygon\main.cpp(22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mhkarazeybek\documents\github\cpp\openglprojects\openglpolygon\openglpolygon\main.cpp(29): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  OpenGLPolygon.vcxproj -> C:\Users\MHKARAZEYBEK\Documents\Github\CPP\OpenGLProjects\OpenGLPolygon\Debug\OpenGLPolygon.exe
